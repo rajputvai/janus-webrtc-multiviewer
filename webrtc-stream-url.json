@@ -1,0 +1,39 @@
+{
+  "links": [
+    {
+      "src": "https://janus.conf.meetecho.com/janus",
+      "stream_index": 1,
+      "tags": [
+        "remote-janus"
+      ]
+    },
+    {
+      "src": "https://janus.conf.meetecho.com/janus",
+      "stream_index": 1,
+      "tags": [
+        "remote-janus 2"
+      ]
+    },
+    {
+      "src": "https://janus.conf.meetecho.com/janus",
+      "stream_index": 1,
+      "tags": [
+        "remote-janus"
+      ]
+    },
+    {
+      "src": "https://janus.conf.meetecho.com/janus",
+      "stream_index": 1,
+      "tags": [
+        "remote-janus 2"
+      ]
+    },
+    {
+      "src": "https://janus.conf.meetecho.com/janus",
+      "stream_index": 1,
+      "tags": [
+        "remote-janus"
+      ]
+    }
+  ]
+}
